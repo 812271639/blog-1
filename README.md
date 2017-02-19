@@ -10,6 +10,7 @@ See [Issues](https://github.com/lizhonghui/blog/issues)
 - [[Ionic] - 基于Ionic的App+Web混合开发实践](https://github.com/lizhonghui/blog/issues/1)
 
 ### 译文
+- [[译]使用webpack2实现Angular懒加载](https://github.com/lizhonghui/blog/issues/13)
 - [[译]webpack2指南之TypeScript](https://github.com/lizhonghui/blog/issues/12)
 - [[译]使用 webpack 搭建 Angular 2 AoT 编译环境](https://github.com/lizhonghui/blog/issues/11)
 - [[译]Angular 2 为什么选用 TypeScript](https://github.com/lizhonghui/blog/issues/10)
