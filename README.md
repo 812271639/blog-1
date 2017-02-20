@@ -9,7 +9,8 @@ See [Issues](https://github.com/lizhonghui/blog/issues)
 - [[Node] - Node异步那些事](https://github.com/lizhonghui/blog/issues/2)
 - [[Ionic] - 基于Ionic的App+Web混合开发实践](https://github.com/lizhonghui/blog/issues/1)
 
-### 译文
+### Angular2译文
+鉴于国内还比较少关于Angular2的实践文，这里选取一些国外的实践文粗略翻译 ~
 - [[译]使用webpack2实现Angular懒加载](https://github.com/lizhonghui/blog/issues/13)
 - [[译]webpack2指南之TypeScript](https://github.com/lizhonghui/blog/issues/12)
 - [[译]使用 webpack 搭建 Angular 2 AoT 编译环境](https://github.com/lizhonghui/blog/issues/11)
