@@ -3,6 +3,7 @@
 See [Issues](https://github.com/lizhonghui/blog/issues)
 
 ### 实战总结
+- [[Angular] - Angular2概览](https://github.com/lizhonghui/blog/issues/14)
 - [[RxJS] - RxJS with Angular 2](https://github.com/lizhonghui/blog/issues/8)
 - [[RxJS]-Thinking in RP](https://github.com/lizhonghui/blog/issues/6)
 - [[Ionic] - Crosswalk in Cordova](https://github.com/lizhonghui/blog/issues/4)
