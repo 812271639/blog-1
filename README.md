@@ -1,5 +1,5 @@
 # Angular 2 专栏
-- [[Angular] - Angular2概览](https://github.com/lizhonghui/blog/issues/14)
+- [[Angular] - 半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14)
 
 ### 译文
 鉴于国内还比较少关于Angular2的实践文，这里选取一些国外的实践文粗略翻译 ~
