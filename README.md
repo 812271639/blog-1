@@ -1,6 +1,7 @@
 # Angular 2 专栏
 - [[Angular] - 半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14)
-- [[Angular] - Angular2 依赖项简介](https://github.com/lizhonghui/blog/issues/15)
+- [[Angular] - Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15)
+- [[Angular] - webpack 实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16)
 
 ### 译文
 鉴于国内还比较少关于Angular2的实践文，这里选取一些国外的实践文粗略翻译 ~
