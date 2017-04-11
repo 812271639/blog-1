@@ -4,6 +4,7 @@
 ### 随手记
 - [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15)
 - [webpack 原生实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16)
+- [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17)
 
 ### 译文
 鉴于国内还比较少关于Angular2的实践文，这里选取一些国外的实践文粗略翻译 ~
