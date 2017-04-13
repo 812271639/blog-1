@@ -1,14 +1,14 @@
 # Angular 2+ 专栏
-- [半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14)
+- [半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14) | 2017.03
 
 ### 随手记
-- [Angular 懒加载那些事](https://github.com/lizhonghui/blog/issues/18)
-- [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17)
-- [webpack 原生实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16)
-- [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15)
+- [Angular 懒加载那些事](https://github.com/lizhonghui/blog/issues/18) | 2017.04
+- [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17) | 2017.04
+- [webpack 原生实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16) | 2017.03
+- [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15) | 2017.03
 
 ### 译文
-鉴于国内还比较少关于Angular2的实践文，这里选取一些国外的实践文粗略翻译 ~
+选取一些国外的实践文粗略翻译 ~
 - [[译]使用webpack2实现Angular懒加载](https://github.com/lizhonghui/blog/issues/13)
 - [[译]webpack2指南之TypeScript](https://github.com/lizhonghui/blog/issues/12)
 - [[译]使用 webpack 搭建 Angular 2 AoT 编译环境](https://github.com/lizhonghui/blog/issues/11)
