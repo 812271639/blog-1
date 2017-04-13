@@ -1,11 +1,11 @@
 # Angular 2+ 专栏
-- [半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14) | 2017.03
+- [半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14) | `2017.03`
 
 ### 随手记
-- [Angular 懒加载那些事](https://github.com/lizhonghui/blog/issues/18) | 2017.04
-- [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17) | 2017.04
-- [webpack 原生实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16) | 2017.03
-- [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15) | 2017.03
+- [Angular 懒加载那些事](https://github.com/lizhonghui/blog/issues/18) | `2017.04`
+- [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17) | `2017.04`
+- [webpack 原生实现 Angular 懒加载 ](https://github.com/lizhonghui/blog/issues/16) | `2017.03`
+- [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15) | `2017.03`
 
 ### 译文
 选取一些国外的实践文粗略翻译 ~
