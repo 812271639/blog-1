@@ -8,10 +8,7 @@
 - [Angular 依赖项简介](https://github.com/lizhonghui/blog/issues/15) | `2017.03`
 
 ### 译文
-选取一些国外的实践文粗略翻译 ~
-- [[译]使用webpack2实现Angular懒加载](https://github.com/lizhonghui/blog/issues/13)
 - [[译]webpack2指南之TypeScript](https://github.com/lizhonghui/blog/issues/12)
-- [[译]使用 webpack 搭建 Angular 2 AoT 编译环境](https://github.com/lizhonghui/blog/issues/11)
 - [[译]Angular 2 为什么选用 TypeScript](https://github.com/lizhonghui/blog/issues/10)
 
 
