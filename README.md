@@ -2,6 +2,7 @@
 - [半小时入门Angular2+](https://github.com/lizhonghui/blog/issues/14) | `2017.03`
 
 ### 随手记
+- [子路由特性模块实现](https://github.com/lizhonghui/blog/issues/20) | `2017.04`
 - [Angular热替换（cli & webpack）](https://github.com/lizhonghui/blog/issues/19) | `2017.04`
 - [Angular 懒加载那些事](https://github.com/lizhonghui/blog/issues/18) | `2017.04`
 - [webpack 与 AoT 那些事 ](https://github.com/lizhonghui/blog/issues/17) | `2017.04`
